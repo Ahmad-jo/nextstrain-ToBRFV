@@ -1,6 +1,6 @@
 # nextstrain-ToBRFV
 
-In October 2019, the Dutch national reference centre for plant health received a tomato sample suspected to be infected with ToBRFV. Presence of the virus was confirmed with analysis of plant rRNA depleted Illumina RNAseq data, using our virus detection pipeline. The pipeline was constructed in CLC Genomics workbench and contains one python script (CEA007). A trace-back survey was initiated to identify possible linkages between ToBRFV genotypes, companies and epidemiological traits. Nextstrain was used to visualize these potential connections. 
+In October 2019, the Dutch national reference centre for plant health received a tomato sample suspected to be infected with ToBRFV. Presence of the virus was confirmed with analysis of plant rRNA depleted Illumina RNAseq data, using our virus detection pipeline. A trace-back survey was initiated to identify possible linkages between ToBRFV genotypes, companies and epidemiological traits. Nextstrain was used to visualize these potential connections. 
 
 Nextstrain implementation
 Nextstrain is a bioinformatics pipeline that uses two tools, Augur and auspice. Augur (github.com/Nextstrain/augur) is a bioinformatics toolkit for phylogenetic analysis that uses a series of modules that produces output that subsequently can be visualized by auspice (github.com/Nextstrain/auspice). 
