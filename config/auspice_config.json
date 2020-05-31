@@ -1,5 +1,5 @@
 {
-  "title": "Real-time tracking of Tomato brown rugose fruit virus (ToBRFV) outbreaks in the Netherlands using Nextstrain",
+  "title": "Real-time tracking of Tomato brown rugose fruit virus (ToBRFV) outbreaks using Nextstrain",
   "color_options": {
     "gt": {
       "menuItem": "genotype",
@@ -38,7 +38,7 @@
       "type": "discrete"
     },
     "stock": {
-      "legendTitle": "Stock",
+      "legendTitle": "Rootstock",
       "key": "stock",
       "menuItem": "stock",
       "type": "discrete"

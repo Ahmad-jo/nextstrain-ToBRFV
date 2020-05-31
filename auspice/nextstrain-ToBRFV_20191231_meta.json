@@ -132,7 +132,7 @@
     },
     "stock": {
       "key": "stock",
-      "legendTitle": "Stock",
+      "legendTitle": "Rootstock",
       "menuItem": "stock",
       "type": "discrete"
     }
@@ -207,41 +207,29 @@
       }
     },
     "municipality": {
-      "birchington-on-sea": {
-        "latitude": 51.3774248,
-        "longitude": 1.3013552
-      },
-      "de_lier": {
-        "latitude": 51.976154,
-        "longitude": 4.255514
+      "brielle": {
+        "latitude": 51.890563,
+        "longitude": 4.175991
       },
       "ensenada": {
         "latitude": 31.868846,
         "longitude": -116.599987
       },
-      "honselersdijk": {
-        "latitude": 52.006059,
-        "longitude": 4.233644
-      },
-      "kwintsheul": {
-        "latitude": 52.01199,
-        "longitude": 4.260883
-      },
-      "middenmeer": {
-        "latitude": 52.787009,
-        "longitude": 4.991332
+      "hollands_kroon": {
+        "latitude": 52.822345,
+        "longitude": 4.962602
       },
       "ohad": {
         "latitude": 31.237441,
         "longitude": 34.431653
       },
-      "rilland": {
-        "latitude": 51.4190688,
-        "longitude": 4.200658
+      "reimerswaal": {
+        "latitude": 51.426992,
+        "longitude": 4.143861
       },
-      "vierpolders": {
-        "latitude": 51.884315,
-        "longitude": 4.1826
+      "westland": {
+        "latitude": 51.999014,
+        "longitude": 4.211052
       }
     },
     "state": {
@@ -296,7 +284,7 @@
     "map",
     "entropy"
   ],
-  "title": "Real-time tracking of Tomato brown rugose fruit virus (ToBRFV) outbreaks in the Netherlands using Nextstrain",
-  "updated": "31 Dec 2019",
+  "title": "Real-time tracking of Tomato brown rugose fruit virus (ToBRFV) outbreaks using Nextstrain",
+  "updated": "31 December 2019",
   "virus_count": 63
 }
